@@ -6,7 +6,7 @@ The war has been raging for nearly two years. In June 1941, Germany launches its
 Fate of Nations is a large-scale World War II grand-strategy game for TripleA. History provides the setting and strategic pressures—but the outcome is yours to determine.
 
 FEATURES
-• The massive WWII blackelk map.
+• The massive WWII Blackelk map.
 
 • Special Barbarossa opening gives Germany a one-time surprise attack sequence before normal play begins.
 
