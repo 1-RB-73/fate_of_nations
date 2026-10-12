@@ -12475,7 +12475,7 @@ rai
 		<option name="production" value="1"/>
 	</attachment>
 	<attachment name="territoryAttachment" attachTo="Baku-Azerbaijan" javaClass="TerritoryAttachment" type="territory">
-		<option name="production" value="2"/>
+		<option name="production" value="4"/>
 		<option name="victoryCity" value="1"/>
 	</attachment>
 	<attachment name="territoryAttachment" attachTo="Bali-Sunda Is." javaClass="TerritoryAttachment" type="territory">
