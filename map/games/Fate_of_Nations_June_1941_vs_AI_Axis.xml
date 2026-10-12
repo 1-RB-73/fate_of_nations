@@ -22789,8 +22789,10 @@ rai
 	<unitPlacement territory="Westphalia-Rhineland" 	unitType="Fighter" 			quantity="1" owner="Germany"/>
 	<unitPlacement territory="Westphalia-Rhineland" 	unitType="AirTransport" 		quantity="1" owner="Germany"/>
 	<unitPlacement territory="Frankfurt-Hesse" 		unitType="Factory" 			quantity="1" owner="Germany"/>
+	<unitPlacement territory="Frankfurt-Hesse" 		unitType="Rail" 			quantity="1" owner="Germany"/>
 	<unitPlacement territory="Frankfurt-Hesse" 		unitType="AntiAircraftGun" 		quantity="1" owner="Germany"/>
 	<unitPlacement territory="Frankfurt-Hesse" 		unitType="Infantry" 			quantity="3" owner="Germany"/>
+	<unitPlacement territory="Wurttemburg" 			unitType="Rail" 			quantity="1" owner="Germany"/>
 	<unitPlacement territory="Wurttemburg" 			unitType="Infantry" 			quantity="2" owner="Germany"/>
 	<unitPlacement territory="Netherlands"			unitType="Infantry"			quantity="3" owner="Germany"/>
 	<unitPlacement territory="Netherlands"			unitType="Artillery"			quantity="1" owner="Germany"/>
