@@ -15022,13 +15022,21 @@ rai
 	</attachment>
 
 	<!-- USSR -->
-	<attachment name="politicalActionAttachment_USSR_To_War_With_Japan" attachTo="USSR" javaClass="games.strategy.triplea.attachments.PoliticalActionAttachment" type="player">
-		<option name="conditions" value="conditionAttachmentPacificAxisNotYetAtWarWithUSSR"/>
+	<attachment name="politicalActionAttachment_USSR_To_War_With_Japan_1" attachTo="USSR" javaClass="games.strategy.triplea.attachments.PoliticalActionAttachment" type="player">
+		<option name="conditions" value="conditionAttachmentPacificAxisNotYetAtWarWithUSSR:conditionAttachment_USSR_War_Declaration_On_Japan_1"/>
 		<option name="relationshipChange" value="Japan:USSR:War -Soviet Declared"/>
 		<option name="relationshipChange" value="USSR:China:Allied"/>
 		<option name="relationshipChange" value="Japan:Mongolia:War"/>
 		<option name="relationshipChange" value="Mongolia:China:Allied"/>
-		<option name="text" value="USSR_War_Japan"/>
+		<option name="text" value="USSR_War_Japan_1"/>
+	</attachment>
+	<attachment name="politicalActionAttachment_USSR_To_War_With_Japan_2" attachTo="USSR" javaClass="games.strategy.triplea.attachments.PoliticalActionAttachment" type="player">
+		<option name="conditions" value="conditionAttachmentPacificAxisNotYetAtWarWithUSSR:conditionAttachment_USSR_War_Declaration_On_Japan_2"/>
+		<option name="relationshipChange" value="Japan:USSR:War -Soviet Declared"/>
+		<option name="relationshipChange" value="USSR:China:Allied"/>
+		<option name="relationshipChange" value="Japan:Mongolia:War"/>
+		<option name="relationshipChange" value="Mongolia:China:Allied"/>
+		<option name="text" value="USSR_War_Japan_2"/>
 	</attachment>
 	<attachment name="triggerAttachment_USSR_Declared_War_Japan_Notice" attachTo="USSR" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
 		<option name="conditions" value="conditionAttachment_USSR_Declared_War_Japan"/>
