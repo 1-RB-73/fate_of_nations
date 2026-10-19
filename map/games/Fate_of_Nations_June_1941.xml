@@ -25075,12 +25075,12 @@
 		<relationship type="Neutral" player1="DanubeAxis" player2="USA" roundValue="1"/>
 		<relationship type="Neutral" player1="DanubeAxis" player2="Brazil" roundValue="1"/>
 		<relationship type="Neutral" player1="DanubeAxis" player2="China" roundValue="1"/>
-		<relationship type="Neutral" player1="DanubeAxis" player2="UK" roundValue="1"/>
-		<relationship type="Neutral" player1="DanubeAxis" player2="BritishIndia" roundValue="1"/>
-		<relationship type="Neutral" player1="DanubeAxis" player2="Canada" roundValue="1"/>
-		<relationship type="Neutral" player1="DanubeAxis" player2="FreeFrench" roundValue="1"/>
-		<relationship type="Neutral" player1="DanubeAxis" player2="Netherlands" roundValue="1"/>
-		<relationship type="Neutral" player1="DanubeAxis" player2="Australia" roundValue="1"/>
+		<relationship type="War" player1="DanubeAxis" player2="UK" roundValue="1"/>
+		<relationship type="War" player1="DanubeAxis" player2="BritishIndia" roundValue="1"/>
+		<relationship type="War" player1="DanubeAxis" player2="Canada" roundValue="1"/>
+		<relationship type="War" player1="DanubeAxis" player2="FreeFrench" roundValue="1"/>
+		<relationship type="War" player1="DanubeAxis" player2="Netherlands" roundValue="1"/>
+		<relationship type="War" player1="DanubeAxis" player2="Australia" roundValue="1"/>
 		<relationship type="Neutral" player1="DanubeAxis" player2="Spain" roundValue="1"/>
 		<relationship type="Neutral" player1="DanubeAxis" player2="Sweden" roundValue="1"/>
 		<relationship type="Neutral" player1="DanubeAxis" player2="Turkey" roundValue="1"/>
@@ -25092,12 +25092,12 @@
 		<relationship type="Neutral" player1="Finland" player2="USA" roundValue="1"/>
 		<relationship type="Neutral" player1="Finland" player2="Brazil" roundValue="1"/>
 		<relationship type="Neutral" player1="Finland" player2="China" roundValue="1"/>
-		<relationship type="Neutral" player1="Finland" player2="UK" roundValue="1"/>
-		<relationship type="Neutral" player1="Finland" player2="BritishIndia" roundValue="1"/>
-		<relationship type="Neutral" player1="Finland" player2="Canada" roundValue="1"/>
-		<relationship type="Neutral" player1="Finland" player2="FreeFrench" roundValue="1"/>
-		<relationship type="Neutral" player1="Finland" player2="Netherlands" roundValue="1"/>
-		<relationship type="Neutral" player1="Finland" player2="Australia" roundValue="1"/>
+		<relationship type="War" player1="Finland" player2="UK" roundValue="1"/>
+		<relationship type="War" player1="Finland" player2="BritishIndia" roundValue="1"/>
+		<relationship type="War" player1="Finland" player2="Canada" roundValue="1"/>
+		<relationship type="War" player1="Finland" player2="FreeFrench" roundValue="1"/>
+		<relationship type="War" player1="Finland" player2="Netherlands" roundValue="1"/>
+		<relationship type="War" player1="Finland" player2="Australia" roundValue="1"/>
 		<relationship type="Neutral" player1="Finland" player2="Spain" roundValue="1"/>
 		<relationship type="Neutral" player1="Finland" player2="Sweden" roundValue="1"/>
 		<relationship type="Neutral" player1="Finland" player2="Turkey" roundValue="1"/>
